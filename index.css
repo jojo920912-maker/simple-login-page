@@ -31,12 +31,6 @@ body {
   height: 110px;
 }
 
-.shoppingCart svg path,
-.shoppingCart svg line,
-.shoppingCart svg circle{
-  stroke: #fff;
-}
-
 .user,
 .password{
   position: relative;
