@@ -18,6 +18,23 @@ body {
   overflow:hidden;
 }
 
+.circle{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 362px;
+  height: 362px;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.circle svg{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  display: block;
+}
+
 .shoppingCart{
   width: 120px;
   height: 120px;
