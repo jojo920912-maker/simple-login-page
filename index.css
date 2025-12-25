@@ -37,15 +37,6 @@ body {
   stroke: #fff;
 }
 
-/*.circle{
-position: absolute;
-width: 724px;
-height: 724px;
-left: -362px;
-top: 358px;
-background: #264ECA;
-}*/
-
 .user,
 .password{
   position: relative;
